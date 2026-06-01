@@ -1,0 +1,9 @@
+# arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# logs locais
+*.log
+
+# variáveis de ambiente
+.env
